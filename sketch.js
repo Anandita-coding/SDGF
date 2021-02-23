@@ -213,7 +213,7 @@ function rocks(){
 
 function nuts(){
 
-  if(frameCount % 20 === 0 ){
+  if(frameCount % 800 === 0 ){
 
     nut = createSprite(300,300,10,10)
     nut.addImage(nutimg)
