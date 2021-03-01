@@ -224,7 +224,7 @@ function nuts(){
   }
 }
 function babySquirrel(){
-  if(frameCount % 100 === 0){
+  if(frameCount % 800 === 0){
 
     eagle.visible = true;
     sq.visible = true;
